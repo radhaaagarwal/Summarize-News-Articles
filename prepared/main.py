@@ -8,9 +8,6 @@ from textblob import TextBlob
 from newspaper import Article
 import threading
 
-# IMPORTANT: Ensure NLTK data is downloaded once, interactively.
-# Run these in your terminal's Python shell IF YOU HAVEN'T ALREADY:
-# python3
 # >>> import nltk
 # >>> nltk.download('punkt')
 # >>> nltk.download('punkt_tab')
