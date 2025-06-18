@@ -1,2 +1,2 @@
 # Summarize-News-Articles
-Summarize News Articles with Machine Learning in Python
+Summarize News Articles in Python
